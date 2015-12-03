@@ -8,16 +8,8 @@
     "start": "node ./bin/www",
     "dev": "DEBUG=project-template-express:* npm start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/glenashley/project-template-express.git"
-  },
   "author": "gap@screenrev.com",
   "license": "Unlicense",
-  "bugs": {
-    "url": "https://github.com/glenashley/project-template-express/issues"
-  },
-  "homepage": "https://github.com/glenashley/project-template-express#readme",
   "engines": {
     "node": "4.1.0"
   },
