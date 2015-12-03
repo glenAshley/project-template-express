@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/www",
-    "dev": "DEBUG=recomendum.com:* npm start"
+    "dev": "DEBUG=project-template-express:* npm start"
   },
   "repository": {
     "type": "git",
